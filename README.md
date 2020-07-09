@@ -19,5 +19,5 @@ This as Aravind. I am a Data science professional with experience in predictive 
 
 - 🔭 I’m currently working on ... Machine Learning and Natural Language Processing.
 - 📫 How to reach me: ... aravindcrgowda@gmail.com
-- 👯 I’m looking to collaborate on ... NLP Projects 
+- 👯 I’m looking to collaborate on ... Data Science
 
