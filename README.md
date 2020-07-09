@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This as Aravind. I am a Data science professional with experience in predictive modeling, data processing, chatbots and data mining algorithms to solve challenging business problems.
 
-- 🔭 I’m currently working on ...Machine Learning and Natural Language Processing.
-- 📫 How to reach me: ...aravindcrgowda@gmail.com
+- 🔭 I’m currently working on ... Machine Learning and Natural Language Processing.
+- 📫 How to reach me: ... aravindcrgowda@gmail.com
 - 👯 I’m looking to collaborate on ... NLP Projects 
 
