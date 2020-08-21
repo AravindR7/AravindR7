@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 This as Aravind. I am a Data science professional with experience in predictive modeling, data processing, chatbots and data mining algorithms to solve challenging business problems.
 
 - 🔭 I’m currently working on ... Machine Learning and Natural Language Processing.
-- 📫 How to reach me: ... aravindcrgowda@gmail.com
+- 📫 How to reach me: ... https://www.linkedin.com/in/aravind-cr-a10008182/
 - 👯 I’m looking to collaborate on ... Data Science projects
 
