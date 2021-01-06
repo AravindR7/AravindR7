@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Machine Learning and Natural Language Processing.
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ... NLP Projects 
+- 👯 I’m looking to collaborate on ... NLP, Deep Learning, Knowledge Graph Projects 
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... NLP and ML
+- 💬 Ask me about ... NLP and ML/DL
 - 📫 How to reach me: ...aravindcrgowda@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This as Aravind. I am a Data science professional with experience in predictive modeling, data processing, chatbots and data mining algorithms to solve challenging business problems.
 
-- 🔭 I’m currently working on ... Machine Learning and Natural Language Processing.
+- 🔭 I’m currently working on ... Machine Learning/Deep Learning and Natural Language Processing.
 - 📫 How to reach me: ... https://www.linkedin.com/in/aravind-cr-a10008182/
 - 👯 I’m looking to collaborate on ... Data Science projects
 
