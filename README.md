@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This as Aravind. I am a Data science professional with experience in predictive modeling, data processing, chatbots and data mining algorithms to solve challenging business problems.
 
-- 🔭 I’m currently working on ... Machine Learning/Deep Learning and Natural Language Processing.
+- 🔭 I’m currently working on ... Machine Learning/Deep Learning and Natural Language Processing, Knowledge Graphs.
 - 📫 How to reach me: ... https://www.linkedin.com/in/aravind-cr-a10008182/
-- 👯 I’m looking to collaborate on ... Data Science projects
+- 👯 I’m looking to collaborate on ... Data Science projects(NLP, CV, ML/DL, Knowledge Graphs)
 
