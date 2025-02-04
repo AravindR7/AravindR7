@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This as Aravind. I am a Data science professional with experience in predictive modeling, data processing, chatbots and data mining algorithms to solve challenging business problems.
+I’m a Data Scientist with a 5+ years of experience with strong focus on building and operationalizing machine learning solutions. My experience spans developing scalable data pipelines, implementing OCR-based document extraction systems, and architecting multi-class classification models that integrate seamlessly into production environments. I specialize in leveraging distributed computing frameworks like Ray, container orchestration with Kubernetes, and CI/CD pipelines to ensure efficient model training and deployment.
 
-- 🔭 I’m currently working on ... Machine Learning/Deep Learning and Natural Language Processing, Knowledge Graphs.
+- 🔭 I’m currently working on ... Machine Learning/Deep Learning and Natural Language Processing, vector search, AI Agents, LLMs.
 - 📫 How to reach me: ... https://www.linkedin.com/in/aravind-cr-a10008182/
-- 👯 I’m looking to collaborate on ... Data Science projects(NLP, CV, ML/DL, Knowledge Graphs)
+- 👯 I’m looking to collaborate on ... Data Science projects(NLP, CV, ML/DL, LLMs, Agentic AI)
 
